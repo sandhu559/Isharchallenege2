@@ -25,5 +25,7 @@ This project is a personal portfolio website for Ishar Sandhu, a computer scienc
 
 
 ## Note
-You can view the website here >
+You can view the website here > https://sandhu559.github.io/Isharchallenege2/index.html
+
+
 
